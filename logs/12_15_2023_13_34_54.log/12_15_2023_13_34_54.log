@@ -1,0 +1,5 @@
+[ 2023-12-15 13:34:56,656 ] 23 root - INFO - Data Ingestion Method Start
+[ 2023-12-15 13:34:56,870 ] 26 root - INFO - Dataset read as pandas Dataframe
+[ 2023-12-15 13:34:58,125 ] 30 root - INFO - Raw Data is Created
+[ 2023-12-15 13:34:59,249 ] 36 root - INFO - Data Ingestion is Completed
+[ 2023-12-15 13:34:59,249 ] 118 root - INFO - Exception occured in the initiate_datatransformation

@@ -1,0 +1,10 @@
+[ 2023-12-18 23:26:49,332 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2023-12-18 23:26:49,336 ] 96 werkzeug - INFO -  * Debugger PIN: 671-669-940
+[ 2023-12-18 23:27:04,207 ] 96 werkzeug - INFO - 127.0.0.1 - - [18/Dec/2023 23:27:04] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[ 2023-12-18 23:27:04,404 ] 96 werkzeug - INFO - 127.0.0.1 - - [18/Dec/2023 23:27:04] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2023-12-18 23:27:04,627 ] 96 werkzeug - INFO - 127.0.0.1 - - [18/Dec/2023 23:27:04] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2023-12-18 23:27:04,698 ] 96 werkzeug - INFO - 127.0.0.1 - - [18/Dec/2023 23:27:04] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2023-12-18 23:27:30,668 ] 96 werkzeug - INFO - 127.0.0.1 - - [18/Dec/2023 23:27:30] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[ 2023-12-18 23:27:30,797 ] 96 werkzeug - INFO - 127.0.0.1 - - [18/Dec/2023 23:27:30] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-12-18 23:27:30,878 ] 96 werkzeug - INFO - 127.0.0.1 - - [18/Dec/2023 23:27:30] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-12-18 23:27:30,988 ] 96 werkzeug - INFO - 127.0.0.1 - - [18/Dec/2023 23:27:30] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -

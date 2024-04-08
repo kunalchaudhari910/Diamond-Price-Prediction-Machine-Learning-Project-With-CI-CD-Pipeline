@@ -1,0 +1,18 @@
+[ 2023-12-19 10:38:51,808 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2023-12-19 10:38:51,808 ] 96 werkzeug - INFO -  * Debugger PIN: 671-669-940
+[ 2023-12-19 10:39:10,051 ] 96 werkzeug - INFO - 127.0.0.1 - - [19/Dec/2023 10:39:10] "GET / HTTP/1.1" 200 -
+[ 2023-12-19 10:39:10,310 ] 96 werkzeug - INFO - 127.0.0.1 - - [19/Dec/2023 10:39:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-12-19 10:39:28,427 ] 96 werkzeug - INFO - 127.0.0.1 - - [19/Dec/2023 10:39:28] "GET /predict HTTP/1.1" 200 -
+[ 2023-12-19 10:39:53,930 ] 66 root - INFO - Dataframe Gathered
+[ 2023-12-19 10:39:54,604 ] 96 werkzeug - INFO - 127.0.0.1 - - [19/Dec/2023 10:39:54] "POST /predict HTTP/1.1" 200 -
+[ 2023-12-19 10:42:40,797 ] 96 werkzeug - INFO - 127.0.0.1 - - [19/Dec/2023 10:42:40] "GET /predict HTTP/1.1" 200 -
+[ 2023-12-19 10:42:41,073 ] 96 werkzeug - INFO - 127.0.0.1 - - [19/Dec/2023 10:42:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-12-19 10:44:30,666 ] 96 werkzeug - INFO - 127.0.0.1 - - [19/Dec/2023 10:44:30] "GET /predict HTTP/1.1" 200 -
+[ 2023-12-19 10:44:49,581 ] 66 root - INFO - Dataframe Gathered
+[ 2023-12-19 10:44:49,620 ] 96 werkzeug - INFO - 127.0.0.1 - - [19/Dec/2023 10:44:49] "POST /predict HTTP/1.1" 200 -
+[ 2023-12-19 10:46:47,324 ] 66 root - INFO - Dataframe Gathered
+[ 2023-12-19 10:46:47,400 ] 96 werkzeug - INFO - 127.0.0.1 - - [19/Dec/2023 10:46:47] "POST /predict HTTP/1.1" 200 -
+[ 2023-12-19 10:50:36,514 ] 66 root - INFO - Dataframe Gathered
+[ 2023-12-19 10:50:36,566 ] 96 werkzeug - INFO - 127.0.0.1 - - [19/Dec/2023 10:50:36] "POST /predict HTTP/1.1" 200 -
+[ 2023-12-19 10:50:48,499 ] 66 root - INFO - Dataframe Gathered
+[ 2023-12-19 10:50:48,533 ] 96 werkzeug - INFO - 127.0.0.1 - - [19/Dec/2023 10:50:48] "POST /predict HTTP/1.1" 200 -
